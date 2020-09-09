@@ -1,0 +1,9 @@
+{
+  "name": "extas/console-jsonrpc",
+  "plugins": [
+    {
+      "class": "extas\\components\\plugins\\commands\\CommandJsonRpc",
+      "stage": "extas.installer.command"
+    }
+  ]
+}
